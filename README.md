@@ -13,12 +13,12 @@ This project explores unsupervised learning techniques, specifically clustering 
 1. **Set Up the Working Directory**:
    Ensure that all the files (`Unsupervised.R`, `WK_R.R`, `seeds_dataset.csv`, `seeds_real.csv`) are in the same directory. Set this directory as your working directory in R. -> setwd("C:\\Path\\To\\Your\\Directory")  
 
-3. Run the Scripts:
+2. Run the Scripts:
    Run the Unsupervised.R script to perform clustering and evaluate the results.
 
-WK_R Function
+## WK_R Function
 The WK_R function calculates a custom metric that compares the clustering results with the real classifications. It provides a score (WK_R) that helps evaluate the effectiveness of different clustering methods.
 
-Output
+## Output
 Clustering Results: The script will display the WK_R values for each clustering method, helping to determine the best clustering approach.
 Plots: Visual representations of the clustering methods and their respective WK_R values.
