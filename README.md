@@ -1,10 +1,10 @@
 # Clustering Analysis Project
 
 ## Overview
-This project explores unsupervised learning techniques, specifically clustering methods, to analyze and classify a seeds dataset. The project applies k-means and hierarchical clustering algorithms and evaluates their performance using a custom metric called WK_R. The results are visualized to compare the effectiveness of different clustering approaches.
+This project explores unsupervised learning techniques, specifically clustering methods, to analyse and classify a seeds dataset. The project applies k-means and hierarchical clustering algorithms and evaluates their performance using a custom metric called WK_R. The results are visualised to compare the effectiveness of different clustering approaches.
 
 ## Files
-- **Unsupervised.R**: The main R script that performs clustering on the seeds dataset, calculates the WK_R values, and generates plots for visualization.
+- **Unsupervised.R**: The main R script that performs clustering on the seeds dataset, calculates the WK_R values, and generates plots for visualisation.
 - **WK_R.R**: A custom R script containing the function `WK_R` used to evaluate the agreement between different clustering solutions and the real classifications.
 - **seeds_dataset.csv**: The dataset containing the features of various seeds.
 - **seeds_real.csv**: The file containing the real classifications of the seeds, used for comparison.
