@@ -20,5 +20,7 @@ This project explores unsupervised learning techniques, specifically clustering 
 The WK_R function calculates a custom metric that compares the clustering results with the real classifications. It provides a score (WK_R) that helps evaluate the effectiveness of different clustering methods.
 
 ## Output
+
 Clustering Results: The script will display the WK_R values for each clustering method, helping to determine the best clustering approach.
+
 Plots: Visual representations of the clustering methods and their respective WK_R values.
